@@ -1,0 +1,11 @@
+name: AmbientSpout
+main: me.rahazan.ambientspout.AmbientSpout
+version: 1.0.2
+author: Rahazan
+depend: [Spout]
+##commands:
+##   skinselector:
+##      description: SkinSelector admin.
+##      permission: skinselector.reload
+##      usage: /<command> [reload / reset]
+

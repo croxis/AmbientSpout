@@ -1,0 +1,17 @@
+Settings:
+  DelayBetweenSongs: 20
+  DelayRandomness: 2
+  FadeOutLength: 3
+  DefaultOn: true
+  MusicAreaEnabled: false
+  DevMessage: false
+  UseBackgroundImage: true
+  ResetSongOnRespawn: true
+  ShowCurrentSong: true
+  EffectLoopsEnabled: true
+  NotifyPlayerEffectLoopDownload: true
+  BackgroundImage: "http://dl.dropbox.com/u/43693599/AmbientSpout.png"
+## Enables the WebServer for resources, necessary for AmbientSpout
+EnableWebServer: true
+HostAddress: 127.0.0.1
+HostPort: 5651
